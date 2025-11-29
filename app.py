@@ -17,7 +17,7 @@ CORS(app)
 
 # Gemini v2 config
 GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")
-GEMINI_URL = "https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent"
+GEMINI_URL = "paste_your_url_here"
 
 # DB lifecycle
 db_initialized = False
